@@ -2,5 +2,5 @@
 
 ## Colaboradores
 
-Wilmer Siza
-Dario Sotelo
+### Wilmer Siza
+### Dario Sotelo
