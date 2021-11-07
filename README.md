@@ -1,1 +1,6 @@
-# actividad-2-fundamentos-disenio
+# Actividad 2 Fundamentos de Disenio
+
+## Colaboradores
+
+Wilmer Siza
+Dario Sotelo
